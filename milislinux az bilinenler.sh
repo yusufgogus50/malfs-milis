@@ -1,1 +1,0 @@
-$ backdoor ve systemd kullanmaz.
